@@ -1,6 +1,10 @@
-### Tools and technologies:
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Samm-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/TellSamm) 
 
-![image](https://user-images.githubusercontent.com/86586449/217228403-5f63cc76-818e-4060-9453-03b01b66ca1a.png) 
+### 💻 Технологии:
 
-![image](https://user-images.githubusercontent.com/86586449/217228513-63e05ebd-1b99-465d-a458-7d0eab0d55bb.png) 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  
+</div>
+
 
