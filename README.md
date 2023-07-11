@@ -8,8 +8,8 @@ Quality Engineer + Test Automation
 
 * 🌍  I'm based in Cheboksary
 * ✉️  You can contact me at [chernikov.semen21@gmail.com](mailto:chernikov.semen21@gmail.com)
-* 🚀  I'm currently working on [Tinkoff](https://www.tinkoff.ru/)
-* 🧠  I'm learning QA.guru
+* 🚀  I'm currently working on [MTS](https://www.mtsbank.ru/)
+* 🧠  I'm learning every day!
 
 ### Skills
 
