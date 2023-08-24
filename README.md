@@ -7,7 +7,7 @@ QA Engineer
 Quality Engineer + Test Automation
 
 * 🌍  I'm based in Cheboksary
-* ✉️  You can contact me at [chernikov.semen21@gmail.com](mailto:chernikov.semen21@gmail.com) and Telegramm [MyTelegramm](https://t.me/TellSamm)
+* ✉️  You can contact me at [chernikov.semen21@gmail.com](mailto:chernikov.semen21@gmail.com) and Telegramm [MyProfile](https://t.me/TellSamm)
 * 🚀  I'm currently working on [MTS](https://www.mtsbank.ru/)
 * 🧠  I'm learning every day!
 
