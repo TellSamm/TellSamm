@@ -17,7 +17,7 @@ Telegram MyProfile
 🧠 Continuously improving my engineering skills every day
 
 Skills
-<p align="left"> <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go" /></a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
+<p align="left"> <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go" /></a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a> <a href="https://www.python.org/"
 
 <a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" height="40" alt="gRPC" /></a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="40" height="40" alt="Swagger" /></a>
